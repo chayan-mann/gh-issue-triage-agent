@@ -1,0 +1,1 @@
+An AI agent that triages new GitHub issues. When an issue is opened, IssueSherpa reads the title and body, applies labels (`bug`, `feature`, `docs`), asks for reproduction steps if they're missing, and suggests an assignee based on `CODEOWNERS`.
